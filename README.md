@@ -38,7 +38,7 @@ I prototyped a neural net model using Keras. I faced over-fitting and used both 
 Special thanks to **Artem Golubin** [rushter](https://github.com/rushter)
 The one-hot encoding is inspired by this amazing git: https://github.com/rushter/heamy/blob/master/heamy/feature.py#L7
 
-## Authors
+## Author
 
 * **Selim Amrouni** [selimamrouni](https://github.com/selimamrouni)
 
