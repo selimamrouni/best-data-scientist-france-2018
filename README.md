@@ -16,7 +16,7 @@ The evaluation metric is multilogloss.
 
 For this project, I started by some features engineering, then used machine learning technics and deep learning technics. 
 
-## Features Engineering
+## Feature Engineering
 
 This is a real-world data problem. Thus, some data cleaning has been realized and features have been removed: too much NaNs or non relevant features (like listings URLs). 
 
