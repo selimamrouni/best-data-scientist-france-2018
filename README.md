@@ -16,6 +16,11 @@ The evaluation metric is multilogloss.
 
 For this project, I started by some features engineering, then used machine learning technics and deep learning technics. 
 
+The files are:
+- X_train.csv, X_test.csv, y_train.csv: Data files. 
+- description.pdf: An overview of the challenge proposed by the platform. 
+- meilleur_DS_france.ipynb: The notebook file. 
+
 ## Feature Engineering
 
 This is a real-world data problem. Thus, some data cleaning has been realized and features have been removed: too much NaNs or non relevant features (like listings URLs). 
